@@ -1,6 +1,6 @@
 # aurora hijab 
 latihan kait abi-1 
-< lang="en">
+< HIJAB NYAMAN="AURORA HIJAB">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
